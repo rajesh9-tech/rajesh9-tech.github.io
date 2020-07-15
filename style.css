@@ -1,0 +1,50 @@
+body {
+	
+	background: url("https://digitalsynopsis.com/wp-content/uploads/2017/07/beautiful-color-ui-gradients-backgrounds-decent.png");
+	background-color: black;
+	font-size:130%;
+	width: 500px
+	height:500px;
+
+}
+
+#list{
+	font-weight: bold;
+   }
+#Main {
+	border:10px solid black;
+	border-radius:15px;
+	border-image-source: 
+	
+	
+
+	
+}
+.container{
+	
+	width: 990px;
+	margin: 0 auto;
+}
+
+nav {
+	
+	list-style-type:none;
+	margin:10px;
+	padding:10px;
+
+}
+ li a {
+	
+	display: block;
+	background-color:lightgray;
+	 
+	float:left;
+}
+.con{
+	border:5px solid black;
+	padding: 20px;
+	margin: 50px;
+    border-radius:15px;
+    border-spacing: 15px;
+}
+
